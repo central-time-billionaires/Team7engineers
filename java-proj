@@ -2,4 +2,6 @@ Gather resources
 build app java
 app.jar ready for deployment
 .jar app resubmitted for review
-new app version now ready for production
+new app version approved for deployment
+app now ready to be deployed to production
+welcome to team 7
